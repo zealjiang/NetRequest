@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NetRequest</string>
+    <string name="please_wait_amoment">请稍等...</string>
+    <string name="username_cannot_be_null">用户名不可为空!</string>
+    <string name="pwd_cannot_be_null">密码不可为空!</string>
+</resources>
